@@ -57,7 +57,7 @@ include('UP.php');
 <table>    	
     <tr>
         <td id="ti" style="">Title</td>
-        <td><input type="text" name="fname" id="box" style="" /></td>
+        <td><input type="text" name="fname" id="box"/></td><br/>
     </tr>
     <tr>
   		<td><input type="submit" id="sub" name="go" ></td>
